@@ -18,7 +18,7 @@ A personal portfolio website built using **Python and Streamlit** to showcase my
 ## ⚙️ Run Locally
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/kumarvansh8956-cell/portfolio-website-app
 cd Portfolio
 pip install -r requirements.txt
 streamlit run App.py
